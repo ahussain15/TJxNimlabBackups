@@ -1,0 +1,1 @@
+ palm -i acute_loo/palm_config/working_drop_index_0//concat.nii -o acute_loo/output_drop_index_0/ -d acute_loo/palm_config/working_drop_index_0//design.mat -t acute_loo/palm_config/working_drop_index_0//contrast.con -n 1000 -m acute_loo/palm_config/working_drop_index_0//MNI152_T1_2mm_brain_mask_dil.nii -save1-p -twotail -accel tail 
